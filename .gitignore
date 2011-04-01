@@ -1,0 +1,9 @@
+# IDE mess #
+*.iml
+*.ipr
+*.iws
+build.bat
+
+# Build Output #
+prebuilt
+
